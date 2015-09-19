@@ -5,7 +5,7 @@
 
 ## The below function takes a matrix as an input and returns a list of functios
 ## ("getInverse","setInverse") to access the cache("m") as well as functions
-##("get","set") to access the matrix("x") itself.
+##("get","set") to access the matrix("x") itself. 
 
 makeCacheMatrix <- function(x = matrix()) {
   
